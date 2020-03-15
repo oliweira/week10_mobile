@@ -2,7 +2,7 @@ import React from 'react';
 import { View } from 'react-native';
 
 function Profile() {
-    <View />
+    return <View />
 }
 
 export default Profile;
